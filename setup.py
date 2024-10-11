@@ -3,7 +3,8 @@ from setuptools import setup, find_packages
 setup(
     name='solver',
     version='0.1',
-    packages=find_packages(),
+    package_dir={'': 'solver'},
+    packages=find_packages(where='solver'),
     install_requires=[],
     description='A small package containing the solver module for my programming lessons. :)',
     author='Fighter',
