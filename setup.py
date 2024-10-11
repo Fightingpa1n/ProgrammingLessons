@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='solver',
+    name='programming_lessons',
     version='0.1',
-    package_dir={'': 'solver'},
-    packages=find_packages(where='solver'),
+    package_dir={'': 'py_package'},
+    packages=find_packages(where='py_package'),
     install_requires=[],
-    description='A small package containing the solver module for my programming lessons. :)',
+    description='Programming lessons python package containing stuff needed for things to work',
     author='Fighter',
     author_email='fightingpainter@gmail.com',
     url='https://github.com/Fightingpa1n/ProgrammingLessons',
