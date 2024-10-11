@@ -1,0 +1,212 @@
+LessonPlan:
+
+    =========================================== BEGINNING ===========================================
+    Starter Terms and Concepts
+        IDE (Integrated Development Environment)
+        Programming Language
+            examples (Python, Java, JS, C, C#...)
+            basic differnce (term changing, differnt way to define stuff)
+            type tease (only tease different types, like Object Oriented, Interpreted, Compiled and other stuff like that)
+        Variables
+        Binary (just the base)
+        Python (basic introduction to Python)
+            print
+            syntax
+            comments
+    
+    Setup
+        Python
+        VSC
+            Live Share
+            Python
+            Pylance
+            Python Debugger
+    
+    Data Types (Beginning)
+        var assign (base, like "x = 5")
+        Bool (Boolean)
+        Int (Integer)
+        Float (Floating Point)
+        String (Text)
+        Null/None (Empty)
+    Var Manupulation (Beginning)
+        Boolean Manupulation (binary stuff like "and", "or", & "not")
+        basic Math ("+", "-", "*"& "/")
+        quick Match ("+=", "-=", "*="& "/=")
+        String Manipulation Basic (just basic stuff, like adding stuff or lowercase, stuff like that)
+        casting
+    Var comparising
+        == (equal)
+        != (not equal)
+        > (greater than)
+        < (less than)
+        >= (greater than or equal)
+        <= (less than or equal)
+    Control Flow (Beginning)
+        If
+        Else
+        Elif
+    Data Types (intermediate)
+        List
+        Dict
+    Var Manupulation (intermediate)
+        List Manupulation
+        Dict Manupulation
+    Loops (Beginning)
+        While
+        For
+        break
+        continue
+    Coding Environment
+        git
+        github
+    Functions (Beginning)
+        defining functions
+        calling functions
+        return (that you can end functions early)
+        returning functions (that functions can return stuff)
+        parameters basic (like just passing vars)
+        parameters intermediate (default values, named parameters)
+    Data Types (advanced)
+        Tuple
+        *args, **kwargs (passing multiple arguments)
+    Loops (advanced)
+        For advanced
+            range
+            enumerate
+            zip
+        While advanced
+            else
+    Classes and Methods (Beginning)
+        defining classes
+        defining methods
+        calling methods
+        self
+    Idk what to call this but I think it fit's here
+        import
+        from <> import <>
+        as
+        *
+    Error Handeling
+        try
+        except
+        raise
+        Exeptions
+        finally
+    
+    Api, Liberary and Frameworks
+        Terms and Concepts
+            Api
+            Liberary
+            Frameworks
+        Pip introduction
+        basic Liberaries
+            random (random numbers and stuff)
+            time (time stuff)
+            math (math utils)
+            os (os stuff)
+    Advanced Concepts
+        Regex (advanced string manipultaion with regex)
+        lambda (anonymous functions that can be used as vars or just wierd stuff)
+
+    =========================================== BONUS ===========================================
+    LOGIC
+        AND
+        OR
+        NOT
+        XOR
+        NAND
+        NOR
+        XNOR
+    Binary
+        Binary
+        Bit
+        Byte
+        Kilobyte, Megabyte, etc...
+        
+    Encoding
+        HEX
+
+    
+
+    =========================================== INTERMEDIATE ===========================================
+    Servers
+        Servers
+        Clients
+        Ports
+        IP
+        HTTP
+        HTTPS
+        webservers
+    Markup Langues
+        XML, HTML (intro)
+        HTML (more detailed)
+        CSS Basic
+            Styling
+            tags
+            classes
+            id
+            Selectors
+        CSS Advanced
+            Flexbox
+            Grid
+            Scale
+            on X (like onHover, on active and stuff like that)
+            Transform
+            Animations
+    
+    JS (basic introduction to JS )
+        syntax
+        Defining vars (const, let, var)
+        other stuff
+    Elements and Events
+        Elements
+        Events
+        Event Listeners
+        Event Handlers
+    JS advanced
+        async 
+        await
+    
+    Data Bases
+        database explonation
+        types (brief overview of different databases)
+    SQL
+        terms and Concepts basic
+            SQL
+            Database
+            Table
+            Row
+            Column
+            Primary Key
+            Foreign Key
+            Index
+            Query
+        SQL basics
+
+    =========================================== ADVANCED ===========================================
+
+    Java (basic introduction to Java)
+        introduction to Object Oriented Programming
+        syntax
+        comments
+        Defining vars (having to define type, and js stuff like final, or)
+    Visibility
+        Public (visible for everyone)
+        Private (only For the class)
+        Protected (only for the class and subclasses)
+    Static and Final
+        static
+        final
+    Classes and Methods (advanced)
+        interfaces
+        inheritance
+        overriding
+        super
+
+    
+
+
+
+        
+        
